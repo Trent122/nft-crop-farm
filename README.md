@@ -1,4 +1,4 @@
-# NFT Farm
+# NFT Farm!
 
 ### About
 Full stack Dapp that allows users to stake their tokens and earn points for doing so. They can use these points to redeem crop themed ERC-1155 NFTs.
